@@ -1,3 +1,5 @@
+package com.hackertstudy.socket;
+
 import com.sun.corba.se.spi.orbutil.fsm.Input;
 
 import java.io.*;
@@ -5,7 +7,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 
 /**
- * @class: Client
+ * @class: com.hackertstudy.socket.Client
  * @description: Socket的客户端
  * @author: yangpeng03614
  * @date: 2019-02-14 13:20

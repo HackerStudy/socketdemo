@@ -1,9 +1,11 @@
+package com.hackertstudy.socket;
+
 import java.io.*;
 import java.net.Socket;
 import java.net.SocketAddress;
 
 /**
- * @class: ServerThread
+ * @class: com.hackertstudy.socket.ServerThread
  * @description: 服务端socket与客户端的socket建立连接，并分配线程处理
  * @author: yangpeng03614
  * @date: 2019-02-14 10:28

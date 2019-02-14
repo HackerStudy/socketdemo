@@ -1,10 +1,11 @@
-import java.io.IOException;
+package com.hackertstudy.socket;
+
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.SocketAddress;
 
 /**
- * @class: Server
+ * @class: com.hackertstudy.socket.Server
  * @description: socket的服务端
  * @author: yangpeng03614
  * @date: 2019-02-14 09:52
